@@ -1,1 +1,1 @@
-# holl
+# Migthy Ducks Hockey League
